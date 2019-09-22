@@ -1,6 +1,7 @@
 # WindMon
-Raspberry Pi monitor for Davis anemometer  
-https://images-na.ssl-images-amazon.com/images/I/517qGZOSKcL._SL1000_.jpg
+
+# WindMonitor 
+# Raspberry Pi monitor for Davis anemometer  
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/517qGZOSKcL._SL1000_.jpg" class="fullscreen" style="margin-top: 10px; margin-left: 37.5px; height: 662px; width: 682px;">
 
